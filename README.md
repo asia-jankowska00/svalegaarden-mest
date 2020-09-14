@@ -17,5 +17,5 @@ Responsive presentational website for Svalegaarden Mest, a function room provide
 ### Team members
 [Alexandru Bogdan](https://github.com/afbogdan)   
 [Joanna Jankowska ](https://github.com/asia-jankowska00)   
-[Nikolay Petkov Rusev](https://github.com/NikolayR21)   
+[Marko Trembecki](https://github.com/Marko2353)   
 [Selen Sezer Mehmed](https://github.com/selensm)
